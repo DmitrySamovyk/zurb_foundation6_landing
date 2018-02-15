@@ -1,0 +1,18 @@
+{
+  "name": "bootstrap4.0_landing",
+  "version": "1.0.0",
+  "description": "bootstrap 4.0.0 landing",
+  "main": "index.js",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
+    "require-dir": "^0.3.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "copyfonts": "gulp copyfonts",
+    "start": "gulp watch"
+  },
+  "author": "DmitrySamovyk",
+  "license": "ISC"
+}

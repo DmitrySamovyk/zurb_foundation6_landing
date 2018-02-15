@@ -1,0 +1,98 @@
+.full-width {
+  width: 100% !important;
+  display: flex;
+  justify-content: center;
+}
+.row {
+  width: 100%;
+}
+
+.bg-black {
+  background-color: $black !important;
+}
+.bg-white {
+  background-color: $white !important;
+}
+.bg-grey {
+  background-color: $dustyGray !important;
+}
+.bg-grey-light {
+  background-color: $wildSand !important;
+}
+.bg-orange {
+  background-color: $neonCarrot !important;
+}
+.bg-dark-blue {
+  background-color: $mineShaft;
+}
+
+.text-white {
+  color: $white;
+}
+.text-orange {
+  color: $neonCarrot;
+}
+.text-grey {
+  color: $dustyGray;
+}
+
+.text-uppercase {
+  text-transform: uppercase;
+}
+
+.br-orange {
+  border: 2px solid $neonCarrot;
+}
+
+.ptop20 {
+  padding-top: 20px !important;
+}
+.pbot20 {
+  padding-bottom: 20px !important;
+}
+.ptop15 {
+  padding-top: 15px !important;
+}
+.pbot15 {
+  padding-bottom: 15px !important;
+}
+.ptop10 {
+  padding-top: 10px !important;
+}
+.pbot {
+  padding-bottom: 10px !important;
+}
+.pleft10 {
+  padding-left: 10px !important;
+}
+.pright10 {
+  padding-right: 10px !important;
+}
+.pleft20 {
+  padding-left: 20px !important;
+}
+.pright20 {
+  padding-right: 20px !important;
+}
+.bot15 {
+  margin-bottom: 15px !important;
+}
+.top15 {
+  margin-top: 15px !important;
+}
+.bot30 {
+  margin-bottom: 30px !important;
+}
+.top30 {
+  margin-top: 30px !important;
+}
+.left20 {
+  margin-left: 20px !important;
+}
+.right20 {
+  margin-right: 20px !important;
+}
+
+.circle {
+  border-radius: 100%;
+}
